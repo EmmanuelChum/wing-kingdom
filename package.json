@@ -1,7 +1,7 @@
 {
-  "name": "wingkingdom",
+  "name": "wingskingdom",
   "version": "1.0.0",
-  "description": "This is a website for the fictional Chicken Wing restaurant Wing Kingdom.",
+  "description": "This is a website for the fictional Chicken Wing restaurant Wings Kingdom.",
   "main": "index.html",
   "scripts": {
     "lite": "lite-server",
